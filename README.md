@@ -4,7 +4,6 @@
     <br>
    <span font-size="15px">I,m Marya</span>
   </h1>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode">
 </div>
 
 
