@@ -7,8 +7,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode">
 </div>
 
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/marya_gulahmad?igsh=MTlzZ2MwdmgzaXJ3Mw%3D%3D&utm_source=qr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maryaahmadi1377@yahoo.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marya_gulahmad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marya_1377@icloud.com) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
