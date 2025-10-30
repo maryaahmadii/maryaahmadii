@@ -4,6 +4,8 @@
 
 # 💫 About Me:
 👋 Hi, I'm Marya<br>👩🏻‍💻 Front-end developer | Web designer.<br>✨ Always learning. Always evolving.<br>🎯 I love creating clean, modern, and responsive websites that tell a story.<br>
+📧 [marya_1377@icloud.com](https://mail.google.com/mail/?view=cm&fs=1&to=marya_1377@icloud.com)
+📧 [maryaahmadi1377@yahoo.com](https://mail.google.com/mail/?view=cm&fs=1&to=maryaahmadi1377@yahoo.com)
 
 
 ## 🌐 Socials:
