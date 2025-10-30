@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hi, I'm Marya <br>👩🏻‍💻 Front-end developer | Web designer.<br>✨ Always learning , always creating.<br>🎯 I love creating clean, modern, and responsive websites that tell a story.<br><br><br>
+👋 Hi, I'm Marya <br>👩🏻‍💻 Front-end developer | Web designer.<br>✨ Always learning. Always evolving.<br>🎯 I love creating clean, modern, and responsive websites that tell a story.<br><br><br>
 
 
 ## 🌐 Socials:
